@@ -21,7 +21,7 @@ body::before {
        (max-width: 1024px) and (-webkit-max-device-pixel-ratio: 1.5),
        (max-width: 1024px) and (max-resolution: 1.5dppx) {
   body::before {
-    background-image: url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/4ATR6Ce6giltbo8pp/information-technology-concept-on-computer-display-with-animated-dots-and-lines-of-molecule-on-blue-background-4k-video_rcnei4lj_thumbnail-full01.png');
+    background-image: url('https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif');
   }
 }
 @media (min-width: 513px)  and (max-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.5),
@@ -29,7 +29,7 @@ body::before {
        (min-width: 1025px) and (max-width: 2048px) and (-webkit-max-device-pixel-ratio: 1.5),
        (min-width: 1025px) and (max-width: 2048px) and (max-resolution: 1.5dppx)  {
   body::before {
-    background-image: url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/4ATR6Ce6giltbo8pp/information-technology-concept-on-computer-display-with-animated-dots-and-lines-of-molecule-on-blue-background-4k-video_rcnei4lj_thumbnail-full01.png');
+    background-image: url('https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif');
   }
 }
 @media (min-width: 1025px) and (-webkit-min-device-pixel-ratio: 1.5),
@@ -37,7 +37,7 @@ body::before {
        (min-width: 2049px) and (-webkit-max-device-pixel-ratio: 1.5),
        (min-width: 2049px) and (max-resolution: 1.5dppx) {
   body::before {
-    background-image: url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/4ATR6Ce6giltbo8pp/information-technology-concept-on-computer-display-with-animated-dots-and-lines-of-molecule-on-blue-background-4k-video_rcnei4lj_thumbnail-full01.png');
+    background-image: url('https://media.giphy.com/media/xT9IgN8YKRhByRBzMI/giphy.gif');
   }
 }
 body .demo-blog {
