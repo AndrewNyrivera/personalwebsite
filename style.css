@@ -1,0 +1,36 @@
+.square {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    display: inline-block;
+}
+#first {
+   
+    background-color: red;
+}
+#second {
+    
+    background-color: green;
+}
+p {
+    
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    display: inline-block;
+}
+#first {
+    background-color: purple;
+}
+#block4text{
+    color:red;
+}
+#block3text{
+    color:pink;
+}
+#block2text{
+    color:grey
+}
+#block1text {
+    color:purple;
+}
